@@ -2,7 +2,7 @@
 Aplicación para conjugar verbos irregulares difíciles en español
 Conjugador de Verbos Irregulares Críticos del Español
 
-Aplicación web interactiva diseñada para facilitar el aprendizaje y la consulta de verbos irregulares y de difícil conjugación en español, especialmente aquellos que generan errores frecuentes en estudiantes.
+Aplicación web interactiva diseñada con Pollinations para facilitar el aprendizaje y la consulta de verbos irregulares y de difícil conjugación en español, especialmente aquellos que generan errores frecuentes en estudiantes.
 
 🎯 Propósito
 
